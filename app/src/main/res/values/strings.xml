@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Take Home</string>
+    <string name="main_hint_user_id">Enter a github user id</string>
+    <string name="main_button_search">Search</string>
+    <string name="dialog_main_updated_label">Last Updated</string>
+    <string name="dialog_main_stars_label">Stars</string>
+    <string name="dialog_main_forks_label">Forks</string>
+</resources>
